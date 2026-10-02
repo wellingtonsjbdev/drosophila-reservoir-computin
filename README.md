@@ -38,7 +38,6 @@ Este estudo anatômico serve como base técnica para atuar em **Cibersegurança 
 **Curva de Capacidade de Memória**
 ![Capacidade de Memória](memory_capacity_curve.png)
 
-*(Nota: Caso você tenha salvo os gráficos com nomes diferentes, basta alterar o nome `lif_dynamics_panel.png` ou `memory_capacity_curve.png` no código acima para o nome exato do arquivo que você fez upload).*
 
 ## 🚀 Como Executar
 1. Clone este repositório:
